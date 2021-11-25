@@ -1,2 +1,2 @@
 # Pollards-Rho-Algorithom
-Implementation of Pollard's Rho integer factorization algorithm
+Implementation of Pollard Rho's integer factorization algorithm
